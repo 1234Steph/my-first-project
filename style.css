@@ -237,5 +237,6 @@ section .p1{
 }
 .finfo p{
     font-weight: lighter;
+    font-size: 3px;
 
 }
